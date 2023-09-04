@@ -3,7 +3,7 @@ import Link from "next/link";
 import React from "react";
 import { NAVBAR_LINKS } from "../data";
 import Button from "../ui/Button";
-import { Sheet, SheetClose, SheetContent, SheetTrigger } from "../ui/sheet";
+import { Sheet, SheetClose, SheetContent, SheetTrigger } from "../ui/Sheet";
 import { Menu, MenuSquare } from "lucide-react";
 
 const Navbar = () => {
